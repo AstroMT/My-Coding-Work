@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(0deg, #a3bded, #6991c7);
+}
+
+span {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+
+section {
+    margin-top: 300px;
+    margin-bottom: 100px;;
+}
+
+iframe {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.game {
+    transition-duration: 1s;
+}
+
+.game:hover {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
